@@ -1,0 +1,1 @@
+int checkGameOver( int **);
